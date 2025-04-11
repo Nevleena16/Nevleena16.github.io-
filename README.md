@@ -4,7 +4,6 @@ Hi! I'm [Your Name], a Computer Science graduate with a passion for software dev
 
 This is my personal portfolio website built using HTML and CSS. It showcases my background, projects, and skills in tech.
 
-🔗 **Live Site**: [https://your-username.github.io/](https://your-username.github.io/)
 
 ## 💼 Sections
 
